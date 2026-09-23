@@ -1,5 +1,8 @@
-# Build files
-build/
+# Build
+*.bat
+*.exe
+*.c
+*.h
 
 # Compiled files
 *.exe
